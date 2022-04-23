@@ -1,0 +1,14 @@
+C:\Users\Dalius\source\repos\RenameImages\bin\Debug\netcoreapp3.1\RenameImages.exe
+C:\Users\Dalius\source\repos\RenameImages\bin\Debug\netcoreapp3.1\RenameImages.deps.json
+C:\Users\Dalius\source\repos\RenameImages\bin\Debug\netcoreapp3.1\RenameImages.runtimeconfig.json
+C:\Users\Dalius\source\repos\RenameImages\bin\Debug\netcoreapp3.1\RenameImages.runtimeconfig.dev.json
+C:\Users\Dalius\source\repos\RenameImages\bin\Debug\netcoreapp3.1\RenameImages.dll
+C:\Users\Dalius\source\repos\RenameImages\bin\Debug\netcoreapp3.1\RenameImages.pdb
+C:\Users\Dalius\source\repos\RenameImages\obj\Debug\netcoreapp3.1\RenameImages.csproj.AssemblyReference.cache
+C:\Users\Dalius\source\repos\RenameImages\obj\Debug\netcoreapp3.1\RenameImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalius\source\repos\RenameImages\obj\Debug\netcoreapp3.1\RenameImages.AssemblyInfoInputs.cache
+C:\Users\Dalius\source\repos\RenameImages\obj\Debug\netcoreapp3.1\RenameImages.AssemblyInfo.cs
+C:\Users\Dalius\source\repos\RenameImages\obj\Debug\netcoreapp3.1\RenameImages.csproj.CoreCompileInputs.cache
+C:\Users\Dalius\source\repos\RenameImages\obj\Debug\netcoreapp3.1\RenameImages.dll
+C:\Users\Dalius\source\repos\RenameImages\obj\Debug\netcoreapp3.1\RenameImages.pdb
+C:\Users\Dalius\source\repos\RenameImages\obj\Debug\netcoreapp3.1\RenameImages.genruntimeconfig.cache

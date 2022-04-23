@@ -1,0 +1,5 @@
+C:\Users\Dalius\source\repos\RenameImages\bin\Release\netcoreapp3.1\publish\RenameImages.exe
+C:\Users\Dalius\source\repos\RenameImages\bin\Release\netcoreapp3.1\publish\RenameImages.dll
+C:\Users\Dalius\source\repos\RenameImages\bin\Release\netcoreapp3.1\publish\RenameImages.deps.json
+C:\Users\Dalius\source\repos\RenameImages\bin\Release\netcoreapp3.1\publish\RenameImages.runtimeconfig.json
+C:\Users\Dalius\source\repos\RenameImages\bin\Release\netcoreapp3.1\publish\RenameImages.pdb

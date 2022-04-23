@@ -1,0 +1,2 @@
+C:\Users\Dalius\source\repos\RenameImages\bin\Release\netcoreapp3.1\publish\RenameImages.pdb
+C:\Users\Dalius\source\repos\RenameImages\bin\Release\netcoreapp3.1\publish\RenameImages.exe

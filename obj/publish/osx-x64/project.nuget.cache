@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JiYm2XvgBi3UWJue8J/oDl78AB7H3++vDi3izd5d00XTXnXhnkdRZwf6vVOB5ybX6eWS3DHieJkpbasb8SIkDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dalius\\source\\repos\\RenameImages\\RenameImages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dalius\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\3.1.24\\microsoft.netcore.app.runtime.osx-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\Dalius\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\3.1.24\\microsoft.aspnetcore.app.runtime.osx-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\Dalius\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\3.1.24\\microsoft.netcore.app.host.osx-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
